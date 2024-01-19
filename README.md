@@ -17,6 +17,8 @@ This is a customizable email signature template. Feel free to fork it and make y
    - Profile picture
 5. Save the file and use it as your email signature.
 
+PS. I made my profile picture in [pfpmaker](https://app.pfpmaker.com/)
+
 ## Contributing
 
 Contributions are welcome! Please read the [contributing guidelines](CONTRIBUTING.md) first.
