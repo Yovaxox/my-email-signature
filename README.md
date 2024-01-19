@@ -2,6 +2,7 @@
 
 This is a customizable email signature template. Feel free to fork it and make your own signature!
 
+![image](https://github.com/Yovaxox/my-email-signature/assets/77306517/9ed71195-6508-4b99-83ab-3e6c6eddcad2)
 ## Usage
 
 1. Clone the repository: `git clone https://github.com/Yovaxox/my-email-signature.git`
